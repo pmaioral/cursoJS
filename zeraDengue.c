@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-struct ListaZeraDengue {
+struct ListaZeraDengueZICAZICAFACUL{
 
   int capacidadeMax;
   float *dadosLista;
